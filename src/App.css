@@ -49,10 +49,10 @@
 }
 
 .img-destination {
-  background-size: cover;
-  width: 300px;
-  height: 180px;
-  margin: 10px;
+  object-fit: cover;
+  width: 250px;
+  height: 90%;
+  padding: 20px;
 }
 
 .destination-text {
